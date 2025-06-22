@@ -1,0 +1,14 @@
+# Compiler flags for Zed C++ LSP
+compile_flags.txt
+
+# Output/test data files
+output.txt
+data.txt
+user.txt
+
+# Compiled binaries (optional but recommended)
+*.out
+*.exe
+*.o
+*.obj
+main
